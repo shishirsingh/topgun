@@ -15,5 +15,5 @@
     "theme_color": "#ff0000",
     "background_color": "#ff0000",
     "display": "standalone",
-    "start_url": "/?utm_source=homescreen"
+    "start_url": "/topgun/?utm_source=homescreen"
 }
